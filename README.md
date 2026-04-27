@@ -1,9 +1,6 @@
 # 28 — The Card Game
 
-A digital implementation of 28 (Irupathiyettu), the classic trick-taking card game from Kerala, India. Runs fully offline as a native Mac desktop app.
-
-![screenshot](screenshot.png)
-
+A digital implementation of 28 (Irupathiyettu), the classic trick-taking card game runs fully offline as a native Mac desktop app.
 ---
 
 ## ✦ Features
